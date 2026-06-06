@@ -14,7 +14,7 @@ By implementing the **"Log in with 9JAWAP"** protocol, you lower registration fr
 * **Instant Onboarding:** One-click registration and login flow for 9JAWAP account holders.
 * **Secure OAuth2 Framework:** Operates on standard secure token handshake mechanisms (`Authorization Code Grant`).
 * **Profile Mapping:** Automatically synchronizes user identity fields (Username, First Name, Last Name, and Profile Picture) directly into the native WordPress user database.
-* **Developer Ecosystem Integration:** Deeply linked with your centralized developer panel metrics at `9jawap.net/developer`.
+* **Developer Ecosystem Integration:** Deeply linked with your centralized developer panel metrics at `9jawap.net/developers`.
 * **Shortcode Support:** Custom login buttons can be placed anywhere using widgets, Gutenberg blocks, or template files.
 
 ---
