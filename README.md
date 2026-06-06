@@ -23,7 +23,7 @@ By implementing the **"Log in with 9JAWAP"** protocol, you lower registration fr
 
 ### 1. Generate Your API Keys
 Before configuring the plugin, you must register your website as an active client application inside our portal:
-1. Navigate to the [9JAWAP Developer Terminal](https://developers.9jawap.net).
+1. Navigate to the [9JAWAP Developer Terminal](https://9jawap.net/developers).
 2. Create a new Application profile.
 3. Configure your **Valid Redirect URI** (This will be provided inside the plugin settings page, usually `https://yourdomain.com/wp-login.php?njw_oauth=callback`).
 4. Copy your unique **Client ID** and **Client Secret**.
