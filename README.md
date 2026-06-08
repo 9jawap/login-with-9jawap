@@ -32,4 +32,4 @@ Before configuring the plugin, you must register your website as an active clien
 1. Download or clone this repository directly into your WordPress directory:
    ```bash
    cd wp-content/plugins/
-   git clone [https://github.com/your-username/login-with-9jawap.git](https://github.com/9jawap/login-with-9jawap.git)
+   git clone [https://github.com/9jawap/login-with-9jawap.git](https://github.com/9jawap/login-with-9jawap.git)
